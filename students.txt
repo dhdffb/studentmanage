@@ -1,0 +1,20 @@
+Harry POTTER,1766060101,m,Computer Science and Technology
+4
+31060101
+31060102
+31060103
+31060104
+WuKong SUN,1766060102,m,Computer Science and Technology
+2
+31060103
+31060104
+XiaoTiao MA,1766060103,m,Computer Science and Technology
+1
+31060104
+MuLan HUA,1766060104,f,Computer Science and Technology
+3
+31060102
+31060103
+31060104
+Bill GATES,1766060105,m,Computer Science and Technology
+0

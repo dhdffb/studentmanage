@@ -1,0 +1,8 @@
+Academic English I,31060101,3,Liang ZHU-GE,8-102
+Two hours each week-day.
+Advanced Mathematics I1,31060102,4.5,ChongZhi ZU,8-101
+Two lectures in a week.
+Introduction to IT,31060103,3.5,ChuanLiang LIU,9-201
+The course includes 16 lab hours.
+Programming Fundamental,31060104,3.5,Donald E. KNUTH,9-203
+The course includes 28 lab hours
